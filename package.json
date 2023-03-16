@@ -1,6 +1,10 @@
 {
   "your": "json config here",
-  "name": "npm-sample",
+  "name": "@fraperleo/npm-sample",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fraperleo/npm-sample.git"
+  },
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
